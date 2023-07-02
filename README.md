@@ -1,4 +1,4 @@
-# Map Reduce Implementation using Go
+# MapReduce
 
 This is a Map Reduce implementation using Go
 
@@ -39,4 +39,3 @@ Using the assigned bucket number, the worker will request the associated reduce 
 
 ## Output
 After completing the reduce tasks, each worker will produce output files for their assigned bucket number. These output files can be consolidated into a single output file at the end if needed.
-# MapReduce
